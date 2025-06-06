@@ -8,6 +8,7 @@
 
 <dl>
 <dd>
+<br>
 <details>
     <summary class="easy p-level">Легкие</summary>
 
@@ -62,6 +63,7 @@
 
 <dl>
 <dd>
+<br>
 <details>
     <summary class="easy p-level">Легкие</summary>
 
@@ -105,6 +107,7 @@
 
 <dl>
 <dd>
+<br>
 <details>
     <summary class="easy p-level">Легкие</summary>
 
@@ -157,6 +160,7 @@
 
 <dl>
 <dd>
+<br>
 <details>
     <summary class="easy p-level">Легкие</summary>
 
@@ -203,18 +207,22 @@
         <img src="schemes/Purchases.jpg"><br>
         <figcaption>Схема БД <span>Тестовое VK (1)</span></figcaption>
     </figure>
+    <br>
     <figure>
         <img src="schemes/Transactions.jpg"><br>
         <figcaption>Схема БД <span>Тестовое VK (2)</span></figcaption>
     </figure>
+    <br>
     <figure>
         <img src="schemes/Countries_Regions_Cities_Events_EventType.jpg"><br>
         <figcaption>Схема БД <span>Тестовое ДомКлик</span></figcaption>
     </figure>
+    <br>
     <figure>
         <img src="schemes/Department_Employee.jpg"><br>
         <figcaption>Схема БД <span>Тестовое Сбербанк</span></figcaption>
     </figure>
+    <br>
     <figure>
         <img src="schemes/Warehouses.jpg"><br>
         <figcaption>Схема БД <span>Тестовое Самокат</span></figcaption>
